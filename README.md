@@ -5,5 +5,6 @@
 ### extracting CLIP encodings
 ### CLIP classifier training
 ### DCT classifier training for binary and multiclass
+### trained models
 ### attack detection (ensemble model)
 ### testing dct on resized images
