@@ -8,3 +8,12 @@
 ### trained models
 ### attack detection (ensemble model)
 ### testing dct on resized images
+
+# New Goals
+### Testing binary dct
+### 3 class dct and test
+### 3 class clip and test
+### ensemble model test
+### data
+### testing dct on resized images
+### testing man on real vs fake
