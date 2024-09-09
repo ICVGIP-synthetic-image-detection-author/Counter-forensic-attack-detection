@@ -17,3 +17,7 @@
 ### data
 ### testing dct on resized images
 ### testing man on real vs fake
+
+# 9/9/24
+### Done-3dct models, 3 way clip model
+### Left-code to test everything, find 3waydct, find realvfake clip, entire ensemble model
