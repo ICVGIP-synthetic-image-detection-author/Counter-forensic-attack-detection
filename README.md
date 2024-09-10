@@ -20,4 +20,4 @@
 
 # 9/9/24
 ### Done-3dct models, 3 way clip model, 3 way dct
-### Left-code to test everything, find realvfake clip**, entire ensemble model
+### Left-code to test everything, entire ensemble model**
