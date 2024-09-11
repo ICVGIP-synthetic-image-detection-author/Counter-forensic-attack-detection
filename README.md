@@ -24,24 +24,24 @@ Please ensure the test data is stored in the following hierarchy
 ICVGIP_Addressing_DM/
 │
 ├──
-├── CLIP/                    # Source code files
-│   ├── Test_3class_CLIP.py  # Three Class (CLIP) script
-├──  DCT_Classification/     # Data storage
-│   ├── Models/              # ML/DL models
-│   ├── Test_3class_DCT.py   # 3 Class DCT script
-│   ├── Test_binary_DCT.py   # Binary DCT script
-├── Data/                    # Contains zip files for dataset, CLIP encodings
-│   ├── CLIP_encodings_test/ # File containing CLIP encodings
-│   ├── COCO_test/           # File containing COCO test images
-│   ├── ucid/                # File containing UCID test images
-│   ├── imagenet/            # File containing Imagenet test images
-│   ├── deep_floyd/          # File containing DeepFLoyd test images
-│   ├── sd14/                # File containing StableDiffusion 1.4 test images
-│   ├── sd21/                # File containing StableDiffusion 2.1 test images
-│   ├── sdxl/                # File containing StableDiffusion XL test images
-│   ├── test/                # File containing reconstructed test images
-├── Ensemble Model/          # Contains code to test ensemble model 
-│  ├── Test_ensemble_model.py              
+├── CLIP/                     # Contains code to test ensemble model
+│   ├── Test_3class_CLIP.py   # Script to test three class CLIP
+├──  DCT_Classification/      # Folder containing DCT models/code
+│   ├── Models/               # Folder containing models
+│   ├── Test_3class_DCT.py    # Script to test 3 Class DCT
+│   ├── Test_binary_DCT.py    # Script to test Binary DCT
+├── Data/                     # Contains zip files for dataset, CLIP encodings
+│   ├── CLIP_encodings_test/  # Folder containing CLIP encodings
+│   ├── COCO_test/            # Folder containing COCO test images
+│   ├── ucid/                 # Folder containing UCID test images
+│   ├── imagenet/             # Folder containing Imagenet test images
+│   ├── deep_floyd/           # Folder containing DeepFLoyd test images
+│   ├── sd14/                 # Folder containing StableDiffusion 1.4 test images
+│   ├── sd21/                 # Folder containing StableDiffusion 2.1 test images
+│   ├── sdxl/                 # Folder containing StableDiffusion XL test images
+│   ├── test/                 # Folder containing reconstructed test images
+├── Ensemble Model/           # Contains code to test ensemble model 
+│  ├── Test_ensemble_model.py # Script to test ensemble model             
 └── README.md                # Project documentation
 ```
 ## Test Code
