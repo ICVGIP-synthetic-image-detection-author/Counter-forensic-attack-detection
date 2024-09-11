@@ -24,7 +24,7 @@ Please ensure the test data is stored in the following hierarchy
 ICVGIP_Addressing_DM/
 │
 ├──
-├── CLIP/                     # Contains code to test ensemble model
+├── CLIP/                     # Contains code to test CLIP model
 │   ├── Test_3class_CLIP.py   # Script to test three class CLIP
 ├──  DCT_Classification/      # Folder containing DCT models/code
 │   ├── Models/               # Folder containing models
