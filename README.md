@@ -39,7 +39,7 @@ ICVGIP_Addressing_DM/
 │   ├── sd14/                 # Folder containing StableDiffusion 1.4 test images
 │   ├── sd21/                 # Folder containing StableDiffusion 2.1 test images
 │   ├── sdxl/                 # Folder containing StableDiffusion XL test images
-│   ├── test/                 # Folder containing reconstructed test images
+│   ├── test/                 # Folder containing DM reconstructed test images
 ├── Ensemble Model/           # Contains code to test ensemble model 
 │  ├── Test_ensemble_model.py # Script to test ensemble model             
 └── README.md                # Project documentation
