@@ -30,7 +30,7 @@ ICVGIP_Addressing_DM/
 │   ├── sd21/                 # Folder containing StableDiffusion 2.1 test images
 │   ├── sdxl/                 # Folder containing StableDiffusion XL test images
 │   ├── test/                 # Folder containing DM reconstructed test images
-├── Ensemble Model/           # Contains code to test ensemble model 
+├── Ensemble_Model/           # Contains code to test ensemble model 
 │  ├── Test_ensemble_model.py # Script to test ensemble model             
 └── README.md                # Project documentation
 ```
