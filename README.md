@@ -53,7 +53,8 @@ To run the code, the following dependencies need to be installed:
 The `file.py` script requires...
 The test can be executed as follows:
 ```
-code
+python script_name.py --csv_path /path/to/your/csv_file.csv
+
 ```
 
 
