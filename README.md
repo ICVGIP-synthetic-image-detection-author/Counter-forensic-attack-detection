@@ -52,19 +52,19 @@ To run the code, the following dependencies need to be installed:
 The following commands can be used to obtain the test results presented in the paper.
 To test the binary DCT based classifiers, use the following command. The parsable input 'real' can take the inputs 'COCO', 'UCID' or 'ImageNet', representing the corresponding real image source. 'Mode' can take the inputs 'rf', 'rm', 'fm', to decide the binary classifier to be tested, i.e, 'Real vs. fake', 'Real vs. Manipulated' or 'Fake vs. Manipulated'. 
 ```
-python ICVGIP_Adressing_DM/DCT_Classification/Test_binary_DCT.py --real 'COCO' --mode 'rf'
+python ICVGIP_Addressing_DM/DCT_Classification/Test_binary_DCT.py --real 'COCO' --mode 'rf'
 ```
 To test the three class DCT based classifier, use the following command. The parsable input 'mode' can take the inputs 'COCO', 'UCID' or 'ImageNet', representing the corresponding real image source.
 ```
-python ICVGIP_Adressing_DM/DCT_Classification/Test_3class_DCT.py --mode 'COCO'
+python ICVGIP_Addressing_DM/DCT_Classification/Test_3class_DCT.py --mode 'COCO'
 ```
 To test the three class CLIP based classifier, use the following command. The parsable input 'mode' can take the inputs 'COCO', 'UCID' or 'ImageNet', representing the corresponding real image source.
 ```
-python ICVGIP_Adressing_DM/CLIP/Test_3class_CLIP.py --mode 'COCO'
+python ICVGIP_Addressing_DM/CLIP/Test_3class_CLIP.py --mode 'COCO'
 ```
 To test the ensemble model, use the following command. The parsable input 'mode' can take the inputs 'COCO', 'UCID' or 'ImageNet', representing the corresponding real image source.
 ```
-python ICVGIP_Adressing_DM/Ensemble_Model/Test_ensemble_model.py --mode 'COCO'
+python ICVGIP_Addressing_DM/Ensemble_Model/Test_ensemble_model.py --mode 'COCO'
 ```
 
 
