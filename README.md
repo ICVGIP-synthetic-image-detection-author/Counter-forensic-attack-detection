@@ -25,11 +25,11 @@ ICVGIP_Addressing_DM/
 │
 ├──
 ├── CLIP/                    # Source code files
-│   ├── Test_3class_CLIP.py # Three Class (CLIP) script
+│   ├── Test_3class_CLIP.py  # Three Class (CLIP) script
 ├──  DCT_Classification/     # Data storage
 │   ├── Models/              # ML/DL models
-│   ├── Test_3class_DCT.py  # 3 Class DCT script
-│   ├── Test_binary_DCT.py # Binary DCT script
+│   ├── Test_3class_DCT.py   # 3 Class DCT script
+│   ├── Test_binary_DCT.py   # Binary DCT script
 ├── Data/                    # Contains zip files for dataset, csv files
 ├── Ensemble Model/          # Contains code to test ensemble model 
 │  ├── Test_ensemble_model.py              
