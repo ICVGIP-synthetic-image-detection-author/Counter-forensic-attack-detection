@@ -21,24 +21,30 @@ This repository contains the code and documentation for **ProjectName**, which a
 ## Directory Structure
 Please ensure the test data is stored in the following hierarchy
 ```bash
-ProjectName/
+ICVGIP_Addressing_DM/
 │
-├── data/                    # Data storage
-├── src/                     # Source code files
+├── CLIP/                    # Data storage
+├── Data/                     # Source code files
 │   ├── utils/               # Utility scripts
 │   ├── models/              # ML/DL models
 │   ├── main.py              # Main executable script
-├── notebooks/               # Jupyter notebooks
-├── tests/                   # Unit and integration tests
+├── DCT_Classification/               # Jupyter notebooks
+├── Ensemble Model/                   # Unit and integration tests
 ├── Dockerfile               # Docker configuration file
 └── README.md                # Project documentation
 ```
 ## Test Code
 To run the code, the following dependencies need to be installed:
 ```
-*
-*
-*
+*numpy
+*scikit-image
+*scikit-learn
+*tensorflow
+*scipy
+*matplotlib
+*Pillow
+*torch
+*pandas
 ```
 
 ### Script
