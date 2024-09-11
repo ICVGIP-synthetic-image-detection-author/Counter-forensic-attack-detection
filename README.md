@@ -25,11 +25,11 @@ ICVGIP_Addressing_DM/
 │
 ├──
 ├── CLIP/                    # Source code files
-├──  DCT_Classification/                     # Data storage
+├──  DCT_Classification/     # Data storage
 │   ├── Models/              # ML/DL models
-│   ├── Testing3classDCT.py              # Main executable script
-├── Data/               # Contains zip files for dataset, csv files
-├── Ensemble Model/                           # Contains code to test ensemble model 
+│   ├── Testing3classDCT.py  # Main executable script
+├── Data/                    # Contains zip files for dataset, csv files
+├── Ensemble Model/          # Contains code to test ensemble model 
 │  ├── test_ensemble_model.py              
 └── README.md                # Project documentation
 ```
