@@ -48,6 +48,7 @@ To run the code, the following dependencies need to be installed:
 ```
 
 ### Script
+The `file.py` script requires...
 The test can be executed as follows:
 ```
 code
