@@ -10,7 +10,8 @@
 ### testing dct on resized images
 
 Link to dataset--https://drive.google.com/drive/folders/1XIhoGIguyhMEaedWKkGtzVGzzXjXuEEt?usp=sharing
-The test results given in the paper can be reproduced with the data given in the above link as follows:
+# Testing
+Before using the code, the test data must be downloaded from the given link.
 
 # 9/9/24
 ### Done-3dct models, 3 way clip model, 3 way dct
