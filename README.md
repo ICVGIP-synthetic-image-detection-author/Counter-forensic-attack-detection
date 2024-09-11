@@ -32,14 +32,14 @@ ICVGIP_Addressing_DM/
 │   ├── Test_binary_DCT.py   # Binary DCT script
 ├── Data/                    # Contains zip files for dataset, CLIP encodings
 │   ├── CLIP_encodings_test/ # File containing CLIP encodings
-│   ├── COCO_test/
-│   ├── ucid_test/
-│   ├── imagenet_test/
-│   ├── deep_floyd/
-│   ├── sd14/
-│   ├── sd21/
-│   ├── sdxl/
-│   ├── test/
+│   ├── COCO_test/           # File containing COCO test images
+│   ├── ucid/                # File containing UCID test images
+│   ├── imagenet/            # File containing Imagenet test images
+│   ├── deep_floyd/          # File containing DeepFLoyd test images
+│   ├── sd14/                # File containing StableDiffusion 1.4 test images
+│   ├── sd21/                # File containing StableDiffusion 2.1 test images
+│   ├── sdxl/                # File containing StableDiffusion XL test images
+│   ├── test/                # File containing reconstructed test images
 ├── Ensemble Model/          # Contains code to test ensemble model 
 │  ├── Test_ensemble_model.py              
 └── README.md                # Project documentation
