@@ -36,15 +36,15 @@ ICVGIP_Addressing_DM/
 ## Test Code
 To run the code, the following dependencies need to be installed:
 ```
-*numpy
-*scikit-image
-*scikit-learn
-*tensorflow
-*scipy
-*matplotlib
-*Pillow
-*torch
-*pandas
+* numpy
+* scikit-image
+* scikit-learn
+* tensorflow
+* scipy
+* matplotlib
+* Pillow
+* torch
+* pandas
 ```
 
 ### Script
