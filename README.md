@@ -53,16 +53,16 @@ To run the code, the following dependencies need to be installed:
 The `file.py` script requires...
 The test can be executed as follows:
 ```
-python script_name.py --csv_path /path/to/your/csv_file.csv
+python Test_binary_DCT.py --real COCO --mode rf
 ```
 ```
-python script_name.py --csv_path /path/to/your/csv_file.csv
+python Test_3class_DCT.py --mode COCO
 ```
 ```
-python script_name.py --csv_path /path/to/your/csv_file.csv
+python Test_3class_CLIP.py --mode COCO
 ```
 ```
-python script_name.py --csv_path /path/to/your/csv_file.csv
+python Test_ensemble_model.py --mode COCO
 ```
 
 
