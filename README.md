@@ -19,7 +19,7 @@ This repository contains the code and documentation for **ProjectName**, which a
 **ProjectName** aims to [short summary of your project]. The project provides [key features, tools, or analysis it offers].
 
 ## Directory Structure
-
+Please ensure the test data is stored in the following hierarchy
 ```bash
 ProjectName/
 │
@@ -33,13 +33,20 @@ ProjectName/
 ├── Dockerfile               # Docker configuration file
 └── README.md                # Project documentation
 ```
-### Script
+## Test Code
 To run the code, the following dependencies need to be installed:
 ```
 *
 *
 *
 ```
+
+### Script
+The test can be executed as follows:
+```
+code
+```
+
 
 # 9/9/24
 ### Done-3dct models, 3 way clip model, 3 way dct
