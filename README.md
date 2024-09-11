@@ -31,7 +31,15 @@ ICVGIP_Addressing_DM/
 │   ├── Test_3class_DCT.py   # 3 Class DCT script
 │   ├── Test_binary_DCT.py   # Binary DCT script
 ├── Data/                    # Contains zip files for dataset, CLIP encodings
-│   ├── CLIP_encodings_test/ # File containing CLIP encodings 
+│   ├── CLIP_encodings_test/ # File containing CLIP encodings
+│   ├── COCO_test/
+│   ├── ucid_test/
+│   ├── imagenet_test/
+│   ├── deep_floyd/
+│   ├── sd14/
+│   ├── sd21/
+│   ├── sdxl/
+│   ├── test/
 ├── Ensemble Model/          # Contains code to test ensemble model 
 │  ├── Test_ensemble_model.py              
 └── README.md                # Project documentation
