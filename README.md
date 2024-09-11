@@ -3,18 +3,17 @@
 
 Link to dataset--https://drive.google.com/drive/folders/1XIhoGIguyhMEaedWKkGtzVGzzXjXuEEt?usp=sharing
 
-This repository contains the code and documentation for **ProjectName**, which aims to solve [brief description of the problem/project].
+This is the official repository that contains the code and documentation for the paper 'Addressing Diffusion Model Based Counter-Forensic Image Manipulation for Synthetic Image Detection'.
 
 ## Overview
 
-**ProjectName** aims to [short summary of your project]. The project provides [key features, tools, or analysis it offers].
+This work aims to find ways to detect counterforensic image manipulations in Synthetic (Diffusion model-based) images. This repo provides some of the code to test our model.
 
 ## Directory Structure
 Please ensure the repository follows the following structure
 ```bash
 ICVGIP_Addressing_DM/
 │
-├──
 ├── CLIP/                     # Contains code to test CLIP model
 │   ├── Test_3class_CLIP.py   # Script to test three class CLIP
 ├──  DCT_Classification/      # Folder containing DCT models/code
