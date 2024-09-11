@@ -7,7 +7,7 @@ This is the official repository that contains the code and documentation for the
 
 ## Overview
 
-This work aims to find ways to detect counterforensic image manipulations in Synthetic (Diffusion model-based) images. This repo provides some of the code to test our model.
+This work aims to find ways to detect counterforensic image manipulations in Synthetic (Diffusion model-based) images. This repository provides some of the code to test our model.
 
 ## Directory Structure
 Please ensure the repository follows the following structure
