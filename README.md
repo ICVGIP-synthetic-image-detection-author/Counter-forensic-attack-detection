@@ -10,7 +10,7 @@ This repository contains the code and documentation for **ProjectName**, which a
 **ProjectName** aims to [short summary of your project]. The project provides [key features, tools, or analysis it offers].
 
 ## Directory Structure
-Please ensure the test data is stored in the following hierarchy
+Please ensure the repository follows the following structure
 ```bash
 ICVGIP_Addressing_DM/
 │
