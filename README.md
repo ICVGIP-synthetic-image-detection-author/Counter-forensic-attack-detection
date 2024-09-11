@@ -54,7 +54,6 @@ The `file.py` script requires...
 The test can be executed as follows:
 ```
 python script_name.py --csv_path /path/to/your/csv_file.csv
-
 ```
 
 
