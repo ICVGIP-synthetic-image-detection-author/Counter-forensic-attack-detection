@@ -52,16 +52,16 @@ To run the code, the following dependencies need to be installed:
 The `file.py` script requires...
 The test can be executed as follows:
 ```
-python Test_binary_DCT.py --real COCO --mode rf
+python ICVGIP_Adressing_DM/DCT_Classification/Test_binary_DCT.py --real COCO --mode rf
 ```
 ```
-python Test_3class_DCT.py --mode COCO
+python ICVGIP_Adressing_DM/DCT_Classification/Test_3class_DCT.py --mode COCO
 ```
 ```
-python Test_3class_CLIP.py --mode COCO
+python ICVGIP_Adressing_DM/CLIP/Test_3class_CLIP.py --mode COCO
 ```
 ```
-python Test_ensemble_model.py --mode COCO
+python ICVGIP_Adressing_DM/Ensemble_Model/Test_ensemble_model.py --mode COCO
 ```
 
 
