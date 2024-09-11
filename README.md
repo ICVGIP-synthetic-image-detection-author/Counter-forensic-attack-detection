@@ -10,14 +10,7 @@
 ### testing dct on resized images
 
 Link to dataset--https://drive.google.com/drive/folders/1XIhoGIguyhMEaedWKkGtzVGzzXjXuEEt?usp=sharing
-# New Goals
-### Testing binary dct
-### 3 class dct and test
-### 3 class clip and test
-### ensemble model test
-### data
-### testing dct on resized images
-### testing man on real vs fake
+The test results given in the paper can be reproduced with the data given in the above link as follows:
 
 # 9/9/24
 ### Done-3dct models, 3 way clip model, 3 way dct
