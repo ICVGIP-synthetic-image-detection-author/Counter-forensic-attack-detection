@@ -23,14 +23,14 @@ Please ensure the test data is stored in the following hierarchy
 ```bash
 ICVGIP_Addressing_DM/
 │
-├── CLIP/                    # Data storage
-├── Data/                     # Source code files
-│   ├── utils/               # Utility scripts
-│   ├── models/              # ML/DL models
-│   ├── main.py              # Main executable script
-├── DCT_Classification/               # Jupyter notebooks
-├── Ensemble Model/                   # Unit and integration tests
-├── Dockerfile               # Docker configuration file
+├──
+├── CLIP/                    # Source code files
+├──  DCT_Classification/                     # Data storage
+│   ├── Models/              # ML/DL models
+│   ├── Testing3classDCT.py              # Main executable script
+├── Data/               # Contains zip files for dataset, csv files
+├── Ensemble Model/                           # Contains code to test ensemble model 
+|   ├── test_ensemble_model.py              
 └── README.md                # Project documentation
 ```
 ## Test Code
