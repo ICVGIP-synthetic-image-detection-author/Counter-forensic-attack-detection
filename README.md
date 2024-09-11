@@ -10,8 +10,36 @@
 ### testing dct on resized images
 
 Link to dataset--https://drive.google.com/drive/folders/1XIhoGIguyhMEaedWKkGtzVGzzXjXuEEt?usp=sharing
-# Testing
-Before using the code, the test data must be downloaded from the given link.
+# ProjectName
+
+This repository contains the code and documentation for **ProjectName**, which aims to solve [brief description of the problem/project].
+
+## Overview
+
+**ProjectName** aims to [short summary of your project]. The project provides [key features, tools, or analysis it offers].
+
+## Directory Structure
+
+```bash
+ProjectName/
+│
+├── data/                    # Data storage
+├── src/                     # Source code files
+│   ├── utils/               # Utility scripts
+│   ├── models/              # ML/DL models
+│   ├── main.py              # Main executable script
+├── notebooks/               # Jupyter notebooks
+├── tests/                   # Unit and integration tests
+├── Dockerfile               # Docker configuration file
+└── README.md                # Project documentation
+```
+### Script
+To run the code, the following dependencies need to be installed:
+```
+*
+*
+*
+```
 
 # 9/9/24
 ### Done-3dct models, 3 way clip model, 3 way dct
