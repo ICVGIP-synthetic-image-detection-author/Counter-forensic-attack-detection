@@ -30,7 +30,7 @@ ICVGIP_Addressing_DM/
 │   ├── Testing3classDCT.py              # Main executable script
 ├── Data/               # Contains zip files for dataset, csv files
 ├── Ensemble Model/                           # Contains code to test ensemble model 
-|   ├── test_ensemble_model.py              
+│  ├── test_ensemble_model.py              
 └── README.md                # Project documentation
 ```
 ## Test Code
