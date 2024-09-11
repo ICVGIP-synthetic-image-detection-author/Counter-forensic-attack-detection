@@ -9,6 +9,7 @@
 ### attack detection (ensemble model)
 ### testing dct on resized images
 
+Link to dataset--https://drive.google.com/drive/folders/1XIhoGIguyhMEaedWKkGtzVGzzXjXuEEt?usp=sharing
 # New Goals
 ### Testing binary dct
 ### 3 class dct and test
